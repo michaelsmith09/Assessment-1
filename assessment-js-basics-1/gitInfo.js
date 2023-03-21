@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+var gitDefinition = "It is a control system on everyone's computer that is able to help navigate through your computer faster and able to run all different types of code projects from small to big by yourself and with a team of coders."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+var gitHubDefinition = "A place where you are able to work together on a project with a team of coders. To be able to make and send repositories. Aprove work others sent in and put it on the main project of code."
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -26,6 +28,7 @@
 */
 
 //CODE HERE
+var gitInitDefinition = "It is command to use to create a new git repository. You use is on when first starting a new project."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -34,6 +37,7 @@
 */
 
 //CODE HERE
+var gitCloneDefinition = "It is used to make a copy of an existing git repository."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -42,6 +46,7 @@
 */
 
 //CODE HERE
+var gitStatusDefinition = "It displays the status of the file. What changes you are trying to make and what files are not on the radar to be tracked"
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +58,8 @@
 */
 
 //CODE HERE
+var gitAddDefinition = 'A command to tell what you are working on that you want to add these updates to the repository after you run the git commit command and name it what you want.'
+var gitAddCode = 'git add .'
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,7 +71,8 @@
 */
 
 //CODE HERE
-
+var gitCommitDefinition = 'It saves a new file of changes you did to your project and saves them into a file you name it to be reviewed'
+var gitCommitCode = 'git commit -m "initial commit"'
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +81,4 @@
 */
 
 //CODE HERE
+var gitPushDefinition = 'Used to push a commit file from a local repository to a remote repository.'
